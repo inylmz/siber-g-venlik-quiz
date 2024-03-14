@@ -4,7 +4,7 @@
 Bu projenin ana amacı, Flutter kullanarak siber güvenlik konusundaki bilgi ve farkındalığı artırmak için interaktif bir quiz uygulaması geliştirmektir. Bu uygulama, kullanıcıların siber güvenlik bilgisini test etmelerine olanak tanırken aynı zamanda bilgi kartları aracılığıyla yeni bilgiler öğrenmelerini sağlayacaktır.
 
 ## Faydaları:
-### Bilgi ve Farkındalık Artışı: Kullanıcılar, siber güvenlik konusunda bilgi düzeylerini artırırken aynı zamanda günlük hayatta karşılaşabilecekleri tehditlere karşı daha hazırlıklı olacaklar.
+**Bilgi ve Farkındalık Artışı:** Kullanıcılar, siber güvenlik konusunda bilgi düzeylerini artırırken aynı zamanda günlük hayatta karşılaşabilecekleri tehditlere karşı daha hazırlıklı olacaklar.
 ### Eğlenceli ve Etkileşimli Öğrenme: Quiz formatı, öğrenme sürecini eğlenceli hale getirirken kullanıcıların etkileşimli olarak katılımını sağlar.
 ### Bilgi Kartları ile Derinleştirilmiş Öğrenme: Bilgi kartları, kullanıcıların siber güvenlik konularında daha derinlemesine bilgi edinmelerini sağlar.
 ### Mobil Uygulama Erişilebilirliği: Mobil uygulama formatı, kullanıcıların istedikleri zaman ve yerde öğrenme imkanı sunar.
