@@ -32,3 +32,5 @@ Bu projenin ana amacı, Flutter kullanarak siber güvenlik konusundaki bilgi ve 
 
 **Gelişmiş Kullanıcı Deneyimi:** Arayüz tasarımı ve kullanıcı etkileşimi, kullanıcıların uygulamayı kolayca kullanmasını sağlayacak şekilde tasarlanır.
 
+**Güncel Kalma:** Uygulama sürekli olarak güncellenir ve yeni bilgiler eklenir.
+
