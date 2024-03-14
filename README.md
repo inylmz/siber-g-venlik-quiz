@@ -10,12 +10,12 @@ Bu projenin ana amacı, Flutter kullanarak siber güvenlik konusundaki bilgi ve 
 ### Mobil Uygulama Erişilebilirliği: Mobil uygulama formatı, kullanıcıların istedikleri zaman ve yerde öğrenme imkanı sunar.
 
 ## Hedef Kitle:
-### Genel Kullanıcılar: Herkesin siber güvenlik konusunda bilgi sahibi olması önemlidir. Dolayısıyla, bu uygulama genel bir kullanıcı kitlesine hitap etmektedir.
-### Öğrenciler: Bilgiyi eğlenceli bir şekilde öğrenmek isteyen öğrenciler, özellikle siber güvenlik alanına ilgi duyanlar.
-### Profesyoneller: İlgili sektörde çalışan veya çalışmak isteyen profesyoneller için sürekli öğrenme ve güncel kalma fırsatı sunar.
+**Genel Kullanıcılar:** Herkesin siber güvenlik konusunda bilgi sahibi olması önemlidir. Dolayısıyla, bu uygulama genel bir kullanıcı kitlesine hitap etmektedir.
+**Öğrenciler:** Bilgiyi eğlenceli bir şekilde öğrenmek isteyen öğrenciler, özellikle siber güvenlik alanına ilgi duyanlar.
+**Profesyoneller:** İlgili sektörde çalışan veya çalışmak isteyen profesyoneller için sürekli öğrenme ve güncel kalma fırsatı sunar.
 
 ## Uygulama Özellikleri:
-### Quiz Modülü: Kullanıcıların siber güvenlik bilgisini test etmek için çeşitli quizler sunar.
+**Quiz Modülü:** Kullanıcıların siber güvenlik bilgisini test etmek için çeşitli quizler sunar.
 ### Bilgi Kartları: Kullanıcıların siber güvenlikle ilgili konularda derinlemesine bilgi edinmelerini sağlayacak bilgi kartları sunar.
 ### Kullanıcı Profili: Kullanıcıların ilerleme kaydını tutar ve belirli bir seviyeye ulaştıklarında başarılarını gösterir.
 ### İstatistikler: Kullanıcıların performanslarını izleyebilmeleri için istatistikler ve analizler sunar.
